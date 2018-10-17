@@ -174,12 +174,12 @@ Service.
 
     Google Analytics is a free web analytics tool 
 	offered by Google to help you analyze your website traffic. You can visit their 
-	Terms of Service page here: https://www.google.com/analytics/terms/us.html
+	Terms of Service page here: (https://www.google.com/analytics/terms/us.html)
 	
   * Firebase
 
     Firebase is a Backend-as-a-Service. You can visit their 
-	Privacy Policy page here: https://firebase.google.com/support/privacy/
+	Privacy Policy page here: (https://firebase.google.com/support/privacy/)
 
 Links to Other Sites  
 --------------------
