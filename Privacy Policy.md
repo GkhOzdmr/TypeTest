@@ -222,5 +222,5 @@ Contact Us
 
 If you have any questions about this Privacy Policy, please contact us:
 
-  * By email: changethis@withyouremail.com
+  * By email: support@typetestapp.com
 
