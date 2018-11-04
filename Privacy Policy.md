@@ -179,7 +179,17 @@ Service.
   * Firebase
 
     Firebase is a Backend-as-a-Service. You can visit their 
+	Privacy Policy page here: (https://support.google.com/admob/answer/6128543?hl=en)
+	 
+  * AddMob
+
+    AddMob is a ad provider. You can visit their 
 	Privacy Policy page here: (https://firebase.google.com/support/privacy/)
+	 
+  * AppLovin
+
+    AppLoving is a ad provider. You can visit their 
+	Privacy Policy page here: (https://www.applovin.com/privacy/)
 
 Links to Other Sites  
 --------------------
